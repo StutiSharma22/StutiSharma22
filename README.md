@@ -1,4 +1,4 @@
-I am a Data Scientist seeking opportunities
+I am a Machine Learning Engineer seeking opportunities
 
 
 
